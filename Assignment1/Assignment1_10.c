@@ -29,6 +29,5 @@ int main()
     {
         printf("The number is not a palindrome."); // Display not palindrome
     }
-
     return 0; // return a integer value (0 means no error)
 }
