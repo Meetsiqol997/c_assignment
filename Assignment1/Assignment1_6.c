@@ -12,8 +12,7 @@ int main(void)
     // Loop to print table from 1 to 10
     for(int i = 1; i <= 10; i++)
     {
-        int Table = num * i; // Calculate multiplication value
-        printf("%d\n", num*i); // Display table values
+        printf("%d * %d = %d\n", num, i, num * i); // display multiplication Table
     }
 
     return 0; // return a integer value (0 means no error)
