@@ -24,6 +24,5 @@ int main()
     {
         printf("The larger num: %d", c); // Display c as largest
     }
-
     return 0; // return a integer value (0 means no error)
 }
